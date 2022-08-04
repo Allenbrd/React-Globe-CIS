@@ -1,0 +1,134 @@
+{
+    "type": "FlightsCollection",
+    "flights": [
+        {
+            "order": 1,
+            "status": true,
+            "startLat": 33.9088451,
+            "startLng": 35.5819893,
+            "endLat": 31.8008346,
+            "endLng": 7.150688,
+            "arcAlt": 0.05
+        },
+        {
+            "type": "flight",
+            "order": 2,
+            "from" : "TAS",
+            "to": "ICN",
+            "flightCode": "HY 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 31.8008346,
+            "startLng": 7.150688,
+            "endLat": 16.7713836,
+            "endLng": -3.0079794,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 3,
+            "from" : "TAS",
+            "to": "ICN",
+            "flightCode": "HY 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 16.7713836,
+            "startLng": -3.0079794,
+            "endLat": 14.7110245,
+            "endLng": -17.465825,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 4,
+            "from" : "TAS",
+            "to": "ICN",
+            "flightCode": "HY 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 14.7110245,
+            "startLng": -17.465825,
+            "endLat": 48.8588548,
+            "endLng": 2.347035,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 5,
+            "from" : "TAS",
+            "to": "ICN",
+            "flightCode": "HY 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 48.8588548,
+            "startLng": 2.347035,
+            "endLat": 51.5286417,
+            "endLng": -0.1015987,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 6,
+            "from" : "TAS",
+            "to": "ICN",
+            "flightCode": "HY 551",
+            "date": "Feb 15, 2019",
+            "status": true,
+            "startLat": 51.5286417,
+            "startLng": -0.1015987,
+            "endLat": 25.0760224,
+            "endLng": 55.227488,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 7,
+            "status": true,
+            "startLat": 25.0760224,
+            "startLng": 55.227488,
+            "endLat": 12.3584921,
+            "endLng": -1.5368433,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 8,
+            "status": true,
+            "startLat": 12.3584921,
+            "startLng": -1.5368433,
+            "endLat": -25.75865,
+            "endLng": 28.1979505,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 9,
+            "status": true,
+            "startLat": -25.75865,
+            "startLng": 28.1979505,
+            "endLat": -20.1629811,
+            "endLng": 57.4967765,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 10,
+            "status": true,
+            "startLat": -20.1629811,
+            "startLng": 57.4967765,
+            "endLat": -20.946304,
+            "endLng": 55.52336,
+            "arcAlt": 0.2 
+        },
+        {
+            "type": "flight",
+            "order": 11,
+            "status": true,
+            "startLat": -20.946304,
+            "startLng": 55.52336,
+            "endLat": 6.5480551,
+            "endLng": 3.2839596,
+            "arcAlt": 0.2 
+        }
+    ]
+}
