@@ -345,8 +345,8 @@ function init() {
   controls.enableDamping = false;
   controls.dynamicDampingFactor = 0.01;
   controls.enablePan = false;
-  controls.minDistance = 100;
-  controls.maxDistance = 400;
+  controls.minDistance = 110;
+  controls.maxDistance = 300;
   controls.rotateSpeed = 0.8;
   controls.zoomSpeed = 1;
   controls.autoRotate = false;
@@ -441,11 +441,11 @@ function onMouseMove(event) {
 
 function onWindowResize() {
 if(window.innerWidth > 950){
-    camera.aspect = window.innerWidth / (window.innerHeight*2);
+    camera.aspect = window.innerWidth / (window.innerHeight*1.35);
     camera.updateProjectionMatrix();
-    windowHalfX = window.innerWidth / 1.5;
-    windowHalfY = window.innerHeight / 1.5;
-    renderer.setSize(window.innerWidth/2, window.innerHeight);
+    windowHalfX = window.innerWidth / 1;
+    windowHalfY = window.innerHeight / 1;
+    renderer.setSize(window.innerWidth*35/100, 400);
 }else{
     camera.aspect = window.innerWidth / window.innerHeight*2;
     camera.updateProjectionMatrix();

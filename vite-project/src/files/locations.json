@@ -1,0 +1,240 @@
+[
+    {
+        
+        "Algeria": {
+            "title": "Algeria",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Rue Semmar, Lot 3, Bir Khadem, Alger"]
+                }
+            },
+            "text": ""
+        },
+        "Angola": {
+            "title": "Angola",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Travessa N’gola Kiluange #53,\nBairro C.T.T.\nMunicipio Rangel\nLuanda"]
+                }
+            },
+            "text": ""
+        },
+        "Benin": {
+            "title": "Benin",
+            "locations": {
+                "Hiperdist":{
+                    "address": ["Lot 118 Zone Résidentielle, Von du Pnud"]
+                }
+            },
+            "text": ""
+        },
+        "Cameroon": {
+            "title": "Cameroon",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Rue Victoria, Résidence 'La Rose', 2ème étage, Bonanjo"]
+                }
+            },
+            "text": ""
+        },
+        "United Arab Emirates": {
+            "title": "United Arab Emirates",
+            "locations": {
+                "Hiperdist Information Technology Trading": {
+                    "address": ["Blue Shed AC03 & AC04, South Zone 1, Jebel Ali Free Zone,Dubai", "Office 1601, Boulevard Plaza Tower 1, Sheikh Mohammed Bin Rashid Boulevard, Downtown Dubai"],
+                    "tel": ["+971 4 8872205", ""],
+                    "fax": ["+971 4 8872208", ""],
+                    "email": "marketing@hiperdist.ae",
+                    "POBox": ["66400, Dubai, UAE", ""],
+                    "website":"www.hiperdistuae.com/"
+                }
+            },
+            "text": ""
+        },
+        "Ghana": {
+            "title": "Ghana",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["132, Royal Castle Road, Kokomlemle PMB CT120 Cantonments - Accra, Ghana"],
+                    "tel": ["+233 30 225 10 81/2 - 2230006"],
+                    "fax": ["+233 30 222 10 27"]
+                }
+            },
+            "text": ""
+        },
+        "Ivory Coast": {
+            "title": "Ivory Coast",
+            "locations": {
+                "Hiperdist Africa": {
+                    "address": ["Rue Gourgas, Tour Alpha 2000, 16ème étage, Abidjan, Côte d'Ivoire", "Biétry, Boulevard de Marseille, Immeuble SCI Naila"],
+                    "tel": ["+225 2121 6820", ""],
+                    "mobile": "+225 0890 4646",
+                    "fax": ["+225 2134 0483", ""],
+                    "email": "infohiperdistafrica@hiperdist.com",
+                    "website": "www.hiperdistafrica.ci"
+                },
+                "CIS Ivory Coast": {
+                    "address": ["Rue Gourgas, Tour Alpha 2000, 16ème étage, Abidjan, Côte d'Ivoire", "Biétry, Boulevard de Marseille, Immeuble SCI Naila"],
+                    "tel": ["+225 2121 6820", ""],
+                    "mobile": "+225 0890 4646",
+                    "fax": ["+225 2134 0483", ""],
+                    "email": "infohiperdistafrica@hiperdist.com",
+                    "website": "www.hiperdistafrica.ci"
+                }
+            },
+            "text": ""
+        },
+        "Jordan": {
+            "title": "Jordan",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Abdel Aziz Battikhi Bldg\nAl Muquabilin, Al Hurriya Street\nAmman, Jordan"],
+                    "POBox": ["216 Amman 11623"]
+                }
+            },
+            "text": ""
+        },
+        "Kenya": {
+            "title": "Kenya",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Block 3, Delta Riverside, Riverside Drive, Nairobi, Kenya", "1st floor, Corner Plaza, Parklands Road, Westlands, Nairobi, Kenya"],
+                    "tel": ["+254 773 145 680", "+254 203 744 433/99"],
+                    "fax": ["", "+254 203 744 474"],
+                    "email": "info@it4africa.com.ke",
+                    "POBox": ["", "1494-00606"]
+                }
+            },
+            "text": ""
+        },
+        "Lebanon": {
+            "title": "Lebanon",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Jal El Dib Square, CIS Building, Beirut, 11-6274, Lebanon"],
+                    "tel": ["+961 4 410 410"],
+                    "fax": ["+961 4 406 224"],
+                    "email": "info_lebanon@hiperdist.com",
+                    "POBox": [" 11-6274, 11072210 Riad el Solh, Beirut, Lebanon"]
+                }
+            },
+            "text": ""
+        },
+        "Mauritius": {
+            "title": "Mauritius",
+            "locations": {
+                "Superdist": {
+                    "address": ["Anse Courtois Pailles, Mauritius"],
+                    "tel": ["+230 286 9000"],
+                    "mobile": "+230 941 4876",
+                    "fax": ["+230 286 9005/6"],
+                    "email": "info_superdist@hiperdist.com",
+                    "website": "www.hiperdist-io.com"
+                }
+            },
+            "text": ""
+        },
+        "Morocco": {
+            "title": "Morocco",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Espace Porte d’Anfa, 17 Rue Bab Mansour , 5éme Etage  N° 20, 20210 Casablanca, Morocco"],
+                    "tel": ["+212 520 222 400"],
+                    "fax": ["+212 520 222 408"],
+                    "email": "contactmaroc@hiperdist.com"
+                }
+            },
+            "text": ""
+        },
+        "Namibia": {
+            "title": "Namibia",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Cnr Joules and Parsons Streets Part of Unit 4, Southern Industrial Area"],
+                    "POBox": ["35191, Pionierspark Windhoek, Namibia"]
+                }
+            },
+            "text": ""
+        },
+        "Nigeria": {
+            "title": "Nigeria",
+            "locations": {
+                "Hiperdist Nigeria": {
+                    "address": ["Africa-Re Building, Plot 1679 Karimu Kotun Street, Victoria Island, Lagos, Nigeria", "33, Joel Ogunnaike Street, GRA, Ikeja, Lagos, Nigeria", "2nd Floor Consortium House Plot 1682 Sanusi Fafunwa Street Victoria Island Lagos, Nigeria"],
+                    "tel": ["+234 802 947 1822", "+234 1 2799282 \n +234 1 2790930/1", "+234 1 903 5347"],
+                    "fax": ["", "+234 1 497 81 17", ""],
+                    "email": "Hiperdist_nig@hiperdist.com \n Hiperdist@hyperia.com",
+                    "website": "hyperia.com"
+                }
+                
+            },
+            "text": ""
+        },
+        "Reunion": {
+            "title": "Reunion",
+            "locations": {
+                "CIS": {
+                    "address": ["Atelier 12 Ilot 2 Rue de la pépinière, ZAE de la Mare 97438 Ste-Marie Île de la Réunion, France"]
+                }
+            },
+            "text": ""
+        },
+        "Senegal": {
+            "title": "Senegal",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Allées Seydou Tall No 4313, 1er étage Dakar, Sénégal"]
+                }
+            },
+            "text": ""
+        },
+        "South Africa": {
+            "title": "South Africa",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Unit 8, Rivonia Gate Office Park, 381 Rivonia Boulevard, Rivonia, 2128, Gauteng, South Africa"]
+                }
+            },
+            "text": ""
+        },
+        "Tunisia": {
+            "title": "Tunisia",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Appartement A-1-2 Immeuble EMERAUDE 1er étage, Avenue de la Bourse – 1053 Les Berges Du Lac II, Tunis, Tunisia"],
+                    "tel": ["+216 71 19 21 74, +216 29 155 848"],
+                    "Fax": ["+216 71 19 21 87"]
+                }
+            },
+            "text": ""
+        },
+        "Tanzania": {
+            "title": "South Africa",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Ndovu road no65 Mikocheni B, Dar Es Salaam United Republic of Tanzania"]
+                }
+            },
+            "text": ""
+        },
+        "France": {
+            "title": "France",
+            "locations": {
+                "SMS": {
+                    "address": ["9 rue de Teheran, 75008 Paris"]
+                }
+            },
+            "text": ""
+        },
+        "United Kingdom": {
+            "title": "United Kingdom",
+            "locations": {
+                "Hiperdist": {
+                    "address": ["Tower 3, 2nd Floor, Royal Pavilion, Wellesley Road, Aldershot , Hampshire GU11 1PZ, United Kingdom"],
+                    "tel": ["+44 1252 518 270"]
+                }
+            },
+            "text": ""
+        }
+    }
+]

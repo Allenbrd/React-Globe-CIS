@@ -5,17 +5,21 @@ import SearchBar from './SearchBar';
 
 export default function App() {
 
-  // function setSelected(value){
-    
-  // }
 
   const [selected, setSelected] = useState("");
+
+  
+  function changeSelected(){
+    setSelected(document.getElementById("locationSearch").value);
+  }
 
   return (
     <>
       <h2>Locations</h2>
-      <center><SearchBar /></center>
       <div className="react-wrapper">
+        <div id='search-container'>
+        <SearchBar changeSelected={changeSelected} />
+        </div>
         <div id='globe-container'></div>
         <div id='infos-container'>
           <Infos selected={selected} />
