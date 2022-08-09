@@ -37,11 +37,11 @@ export default function Infos(props){
             for(let i = 0;i<Object.size(locations[0][document.getElementById("locationSearch").value].locations);i++){
 
                 if(Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i].includes('Hiperdist')){
-                    rendering = <><div><img className="BUlogo" src={Hiperdist} alt="Hiperdist" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
+                    rendering = <><div className="BUdiv"><img className="BUlogo" src={Hiperdist} alt="Hiperdist" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
                 } else if(Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i].includes('CIS')){
-                    rendering = <><div><img className="BUlogo" src={CIS} alt="CIS" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
+                    rendering = <><div className="BUdiv"><img className="BUlogo" src={CIS} alt="CIS" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
                 } else if(Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i].includes('Hiperdist')){
-                    rendering = <><div><img className="BUlogo" src={Scriptera} alt="Scriptera" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
+                    rendering = <><div className="BUdiv"><img className="BUlogo" src={Scriptera} alt="Scriptera" />{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
                 }else{
                     rendering = <><div>{Object.keys(locations[0][document.getElementById("locationSearch").value].locations)[i]}</div></>;
                 }

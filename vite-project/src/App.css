@@ -261,12 +261,15 @@ canvas{
 }
 
 img.BUlogo{
-  display: block;
+  display: inline-block;
+  vertical-align: middle;
   height: 30px;
   margin: 5px;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+}
+
+.BUdiv{
+  font-size: large;
 }
 
 @media only screen and (max-width: 950px) {
