@@ -317,7 +317,7 @@ function init() {
   pLight4.position.set(200, -500, 200);
   camera.add(pLight4);
 
-  camera.position.z = 400;
+  camera.position.z = 300;
   camera.position.x = 0;
   camera.position.y = 150;
 
@@ -447,11 +447,11 @@ if(window.innerWidth > 950){
     windowHalfY = window.innerHeight / 1;
     renderer.setSize(window.innerWidth*35/100, 400);
 }else{
-    camera.aspect = window.innerWidth / window.innerHeight*2;
+    camera.aspect = window.innerWidth / window.innerHeight*3;
     camera.updateProjectionMatrix();
     windowHalfX = window.innerWidth;
     windowHalfY = window.innerHeight;
-    renderer.setSize(window.innerWidth, window.innerHeight*(1/2));
+    renderer.setSize(window.innerWidth, window.innerHeight/3);
 }
   
 }

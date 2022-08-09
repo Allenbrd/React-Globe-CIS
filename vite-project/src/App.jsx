@@ -15,7 +15,6 @@ export default function App() {
 
   return (
     <>
-      <h2>Locations</h2>
       <div className="react-wrapper">
         <div id='search-container'>
         <SearchBar changeSelected={changeSelected} />

@@ -1,6 +1,35 @@
+html{
+  background-color: white;
+
+}
+
 body{
   background-color: white;
   color: black;
+  overflow-x: hidden;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+	transition-duration: 0.2s;
+}
+
+/* Handle */ 
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background: #ccc;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a0a0;
 }
 
 h2{
@@ -225,10 +254,19 @@ canvas{
   margin-top: 20px;
 }
 
-.location-bus div img{
+.location-bus div .side-info-label img{
   vertical-align: middle;
 
   width: 70%;
+}
+
+img.BUlogo{
+  display: block;
+  height: 30px;
+  margin: 5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media only screen and (max-width: 950px) {
