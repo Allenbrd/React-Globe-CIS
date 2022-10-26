@@ -2,5 +2,8 @@
 
 "Locations" section on groupcis.com
 
-npm install
-npm run dev
+In order to get started:
+`npm install
+npm run dev`
+
+Documentation on sharepoint
